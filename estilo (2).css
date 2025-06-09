@@ -1,0 +1,79 @@
+.body {
+   margin: 0;
+   padding: 0;
+}
+
+
+.primeiratela {
+   width: 100%;
+   height: 200vh;
+   background: yellow;
+   text-align: center;
+   
+}
+
+.logoquiz {
+   width: 40%;
+   margin: 0 auto;
+   
+}
+
+.botaoiniciar {
+   width: 150px;
+   height: 60px;
+   font-size: 30;
+   font-style: italic;
+   font-weight: bold;
+   background: yellow;
+   margin: 0px auto;
+   margin-top: 50px;
+   text-align: center;
+   border: 5px solid blue;
+   padding: 5px 10px 5px 10px;
+}
+
+.perguntatela {
+   width: 100%;
+   height: 200vh;
+   background: darkkhaki;
+   text-align: center;
+   
+}
+
+.cerebro {
+   width: 50%;
+   margin-top: 50px;
+}
+
+.pergunta {
+   padding: 20px 10px 20px 10px;
+   margin-top: 50px;
+   background: rgb(129, 129, 129);
+}
+
+.botao-responder {
+   background: white;
+   font-size: 30px;
+   padding: 30px 20px 30px 20px;
+   margin-top: 30px;
+   
+}
+
+.botao-responder:active {
+   background: red;
+   font-size: 40px;
+   border: 5px solid yellow;
+}
+
+.telaacertou {
+   width: 100%;
+   height: 200vh;
+   background: darkkhaki;
+   text-align: center;
+}
+
+.vitoria {
+   width: 50%;
+   text-align: center;
+}
+
